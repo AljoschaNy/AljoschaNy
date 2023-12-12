@@ -30,7 +30,7 @@ As a passionate IT systems electronics technician turned web developer, I thrive
 
 ### 💡 Capstone Project: Fiturae
 
-<img src="./screenshot.jpg" alt="Fiturae Homepage" width="500"/>
+<img src="./screenshot.jpg" alt="Fiturae Homepage" hight="200"/>
 
 **Fiturae** is a dynamic web application developed using Spring Boot and Java for the backend and React with TypeScript for the frontend. The design and user experience were thoughtfully crafted, considering modern UI/UX principles and realized using tools like Figma. Highlights of Fiturae include:
 
