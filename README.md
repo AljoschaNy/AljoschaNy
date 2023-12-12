@@ -16,13 +16,11 @@ As a passionate IT systems electronics technician turned web developer, I thrive
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-OAuth2-5860AB?style=flat" height="30"/>
   <img src="https://img.shields.io/badge/-Testing-569A31?style=flat" height="30"/>
-  <br/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-CI%2FCD-569A31?style=flat" height="30"/>
   <img src="https://img.shields.io/badge/-SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white" height="30"/>
-  <br/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-UI%2FUX_Design-FF69B4?style=flat" height="30"/>
 </div>
