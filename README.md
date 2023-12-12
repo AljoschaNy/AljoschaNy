@@ -8,18 +8,29 @@ As a passionate IT systems electronics technician turned web developer, I thrive
 <div>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="30"/><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" height="30"/><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" height="30"/> 
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" height="30"/> 
   <br/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="30"/><img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="30"/><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30"/><img src="https://img.shields.io/badge/-OAuth2-5860AB?style=flat" height="30"/><img src="https://img.shields.io/badge/-Testing-569A31?style=flat" height="30"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-OAuth2-5860AB?style=flat" height="30"/>
+  <img src="https://img.shields.io/badge/-Testing-569A31?style=flat" height="30"/>
   <br/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="30"/><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30"/><img src="https://img.shields.io/badge/-CI%2FCD-569A31?style=flat" height="30"/><img src="https://img.shields.io/badge/-SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white" height="30"/><img src="https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-CI%2FCD-569A31?style=flat" height="30"/>
+  <img src="https://img.shields.io/badge/-SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white" height="30"/>
   <br/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="30"/><img src="https://img.shields.io/badge/-UI%2FUX_Design-FF69B4?style=flat" height="30"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-UI%2FUX_Design-FF69B4?style=flat" height="30"/>
 </div>
 
 ### 💡 Capstone Project: Fiturae
 
-<img src="[https://github.com/deinusername/deinrepo/blob/main/images/deinbild.png](https://github.com/AljoschaNy/AljoschaNy/blob/main/screenshot.jpg)" alt="Fiturae Homepage" width="500"/>
+<img src="./screenshot.jpg" alt="Fiturae Homepage" width="500"/>
 
 **Fiturae** is a dynamic web application developed using Spring Boot and Java for the backend and React with TypeScript for the frontend. The design and user experience were thoughtfully crafted, considering modern UI/UX principles and realized using tools like Figma. Highlights of Fiturae include:
 
