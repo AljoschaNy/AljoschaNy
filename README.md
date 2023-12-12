@@ -11,7 +11,6 @@ As a passionate IT systems electronics technician turned web developer, I thrive
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" height="30"/> 
-  <br/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30"/>
