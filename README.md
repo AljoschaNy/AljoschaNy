@@ -33,10 +33,10 @@ As a passionate IT systems electronics technician turned web developer, I thrive
 - **Frontend Innovation**: Implemented using React with TypeScript, ensuring a reactive and engaging user interface.
 - **UI/UX Design**: Focused on creating an intuitive and aesthetically pleasing user experience.
 - **Security**: Enhanced with OAuth2 for secure authentication and authorization.
-- **Testing**: Rigorous unit and integration testing using JUnit5, ensuring reliability and quality.
+- **Testing**: Rigorous unit and integration testing, ensuring reliability and quality.
 - **Advanced Practices**: Adopted CI/CD, comprehensive testing, and code quality management using SonarCloud.
-- **Containerization**: Utilized Docker for streamlined deployment and scalability.
-- **Deployment**: Successfully deployed with Render, offering a seamless hosting solution.
+- **Containerization**: Utilized Docker for streamlined deployment.
+- **Deployment**: Successfully deployed with Render.
 
 🔗 [Check out the project here](https://github.com/AljoschaNy/capstone-project-fiturae)
 
