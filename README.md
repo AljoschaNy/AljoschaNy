@@ -11,11 +11,11 @@ I focus on scalable architectures, system reliability and delivering real busine
 
 ### 🛠️ Tech Stack
 
-**Backend:** Java, Spring Boot, Microservices, REST, gRPC  
-**Frontend:** React, TypeScript 
-**Data:** MongoDB  
-**Infrastructure & DevOps:** Docker, CI/CD (GitHub Actions), Deployment, DigitalOcean
-**Messaging & APIs:** Kafka, WebSockets, External API Integrations  
+- **Backend:** Java, Spring Boot, Microservices, REST, gRPC  
+- **Frontend:** React, TypeScript  
+- **Data:** MongoDB  
+- **Infrastructure & DevOps:** Docker, CI/CD (GitHub Actions), Deployment, DigitalOcean  
+- **Messaging & APIs:** Kafka, WebSockets, External API Integrations  
 
 ---
 
